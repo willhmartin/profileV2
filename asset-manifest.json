@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/profileV2/static/css/main.9a6d25bd.chunk.css",
-    "main.js": "/profileV2/static/js/main.31927e97.chunk.js",
-    "main.js.map": "/profileV2/static/js/main.31927e97.chunk.js.map",
-    "runtime-main.js": "/profileV2/static/js/runtime-main.e136dab7.js",
-    "runtime-main.js.map": "/profileV2/static/js/runtime-main.e136dab7.js.map",
+    "main.js": "/profileV2/static/js/main.d0cdbf91.chunk.js",
+    "main.js.map": "/profileV2/static/js/main.d0cdbf91.chunk.js.map",
+    "runtime-main.js": "/profileV2/static/js/runtime-main.d7730c6e.js",
+    "runtime-main.js.map": "/profileV2/static/js/runtime-main.d7730c6e.js.map",
     "static/css/2.4ce9e501.chunk.css": "/profileV2/static/css/2.4ce9e501.chunk.css",
-    "static/js/2.2c047119.chunk.js": "/profileV2/static/js/2.2c047119.chunk.js",
-    "static/js/2.2c047119.chunk.js.map": "/profileV2/static/js/2.2c047119.chunk.js.map",
-    "static/js/3.6334bbbc.chunk.js": "/profileV2/static/js/3.6334bbbc.chunk.js",
-    "static/js/3.6334bbbc.chunk.js.map": "/profileV2/static/js/3.6334bbbc.chunk.js.map",
+    "static/js/2.e652b4a6.chunk.js": "/profileV2/static/js/2.e652b4a6.chunk.js",
+    "static/js/2.e652b4a6.chunk.js.map": "/profileV2/static/js/2.e652b4a6.chunk.js.map",
+    "static/js/3.2c439253.chunk.js": "/profileV2/static/js/3.2c439253.chunk.js",
+    "static/js/3.2c439253.chunk.js.map": "/profileV2/static/js/3.2c439253.chunk.js.map",
     "index.html": "/profileV2/index.html",
     "static/css/2.4ce9e501.chunk.css.map": "/profileV2/static/css/2.4ce9e501.chunk.css.map",
     "static/css/main.9a6d25bd.chunk.css.map": "/profileV2/static/css/main.9a6d25bd.chunk.css.map",
-    "static/js/2.2c047119.chunk.js.LICENSE.txt": "/profileV2/static/js/2.2c047119.chunk.js.LICENSE.txt",
+    "static/js/2.e652b4a6.chunk.js.LICENSE.txt": "/profileV2/static/js/2.e652b4a6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/profileV2/static/media/Walkway_Bold.2fe52d53.ttf",
     "static/media/ebaebae.56510dda.jpg": "/profileV2/static/media/ebaebae.56510dda.jpg",
     "static/media/ebaebooking.37335ef0.jpg": "/profileV2/static/media/ebaebooking.37335ef0.jpg",
@@ -43,10 +43,10 @@
     "static/media/splatter.9ac8f05e.png": "/profileV2/static/media/splatter.9ac8f05e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e136dab7.js",
+    "static/js/runtime-main.d7730c6e.js",
     "static/css/2.4ce9e501.chunk.css",
-    "static/js/2.2c047119.chunk.js",
+    "static/js/2.e652b4a6.chunk.js",
     "static/css/main.9a6d25bd.chunk.css",
-    "static/js/main.31927e97.chunk.js"
+    "static/js/main.d0cdbf91.chunk.js"
   ]
 }
