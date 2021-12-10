@@ -1,0 +1,29 @@
+.heji {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+
+.heji-carousel-wrapper {
+  width: 250px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+}
+.about-heji {
+  padding: 10px 10px;
+  width: 250px;
+  font-size: 23px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+}
+
+.about-heji p {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.heji img {
+  height: 450px;
+}
+
+/* .heji {
+  width: 600px;
+} */

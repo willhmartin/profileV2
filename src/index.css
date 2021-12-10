@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Krub:wght@200&family=Syne:wght@700&display=swap");
+
+@font-face {
+  font-family: "Rocketwildness";
+  src: local("Rocketwildness"),
+    url(./fonts/Rocketwildness-7BB8R.ttf) format("truetype");
+  /* other formats include: 'woff2', 'truetype, 'opentype',
+                            'embedded-opentype', and 'svg' */
+}
+@font-face {
+  font-family: "Walkway_Bold";
+  src: url(./fonts/Walkway_Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Champagne_&_Limousines";
+  src: url(./fonts/Champagne_&_Limousines.ttf) format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: "Krub", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e5e5e5;
+  color: #444546;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.absolute {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  inset: 0;
+}
+
+.bg-black {
+  background-color: black;
+  position: relative;
+  z-index: 40;
+  width: 100%;
+}
+
+.homeNav {
+  z-index: 50;
+}
+
+.carousels {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  justify-content: space-evenly;
+}
+
+.carousels-2 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+.strapline p {
+  font-size: 100px;
+  margin-top: 0px;
+}
+
+.strapline {
+  width: 400px;
+  margin-top: 50px;
+  display: flex;
+  margin-left: 20px;
+}
+
+.homePageContainer {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}

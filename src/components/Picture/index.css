@@ -1,0 +1,16 @@
+img {
+  height: 750px;
+  width: 1380px;
+}
+
+/* .imageContainer {
+  position: relative;
+  /* display: flex;
+  flex-direction: row;
+  align-items: end; */
+
+.image {
+  position: absolute;
+  right: 0px;
+  top: 60px;
+}
